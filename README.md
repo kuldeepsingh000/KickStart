@@ -14,4 +14,10 @@
 * BoringNumber [Link for problem](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6)
 * BoringNumber [Link for Solution](https://github.com/kuldeepsingh000/KickStart/blob/master/KickStartRoundH2020/Boring_Number.cpp)
 ***
+
+***
+### Solution  Round A 2021 
+....................
+***
+
 ***
